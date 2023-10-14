@@ -11,6 +11,6 @@ public class GreetingResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Olá, Brasília. Este é meu projeto de aprendizado em Quarkus.";
+        return "Olá, Brasília. Este é meu projeto de aprendizado em Quarkus - Develop.";
     }
 }
